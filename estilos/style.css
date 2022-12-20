@@ -4,12 +4,12 @@
 }
 
 bory {
-    background-color: rgb(204, 157, 248);
+    background-color: rgba(248, 157, 236, 0.781);
 
 }
 
 main {
-    background-color: white;
+    background-color: rgba(105, 97, 97, 0.562);
     width: 500px;
     margin: auto;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
